@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🌕推荐┃豆瓣",
+      "name": "📢豆瓣推荐┃公众号【蜗牛科技仓】",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -1228,6 +1228,15 @@
   ],
   "logo": "./js/logo.gif",
   "lives": [
+    {
+      "name": "SVIP",
+      "url": "https://tv.xn--11x555b.top/TV/twlive.txt",
+      "type": 0,
+      "playerType": 1,
+      "ua": "okhttp/4.11",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "直播1",
       "url": "http://mdxgh.v6.rocks:9999/new/mdlive.txt",

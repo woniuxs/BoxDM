@@ -1,4 +1,4 @@
-![TvBox](https://socialify.git.ci/woniuxs/TVBox/image?description=1&descriptionEditable=TvBox%E6%8E%A5%E5%8F%A3&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
+![TvBox](https://socialify.git.ci/woniuxs/TVBox/image?description=1&descriptionEditable=TVBox%E6%8E%A5%E5%8F%A3&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 
 # TVBox自用资源
 
